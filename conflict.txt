@@ -1,1 +1,3 @@
 Git is very hard, but I still love it!
+
+Dit is a test conflict.
